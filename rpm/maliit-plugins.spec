@@ -5,7 +5,7 @@ Summary:    Reference input method plugins
 Version:    0.99.0
 Release:    1
 License:    BSD
-URL:        http://gitorious.org/maliit/maliit-plugins
+URL:        https://github.com/sailfishos/maliit-plugins
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   qt5-qtdeclarative-import-qtquick2plugin
 Requires:   qt5-qtsvg-plugin-imageformat-svg
